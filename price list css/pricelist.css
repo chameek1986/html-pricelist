@@ -1,0 +1,47 @@
+@media (max-width: 680px) {
+    .body {
+        width: 100px;
+    }
+}
+
+
+
+
+
+body {
+    background-color:rgb(241, 241, 241)
+}
+
+
+
+h1 {
+    text-align: center;
+    color: blue;
+    
+}
+
+h2 {
+    text-align: center;
+    
+    color: black;
+    
+}
+
+.productphoto {
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    background-color:antiquewhite;
+    gap: 5px;
+    font-size: medium;
+    flex-direction:column;
+    
+}
+
+
+

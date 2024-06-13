@@ -1,0 +1,29 @@
+@media (max-width: 680px) {
+    .body {
+        width: 100px;
+    }
+}
+
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    text-decoration: underline;
+}
+.protinex180pic {
+    display: flex;
+    height: 200px;
+    justify-content: center;
+}
+
+
+
+
+h2 {
+
+    text-align: center;
+    color: black;
+    background-color:rgb(128, 136, 54);
+
+}
